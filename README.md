@@ -24,4 +24,6 @@ By interpolating between the values of the latent variables, the morphing of the
 The decoder could indeed generate new images that it hadn't been shown during the training.
 However, the images seem to be blurred(due to the humongous loss of 460). Nevertheless, the effect of interpolation on the 
 latent variables do generate new samples.
-![](videotogif_slow.GIF)  ![](videotogif_fast.gif)
+
+![Interpolating in latent space](https://github.com/ChetanPatil28/Variational-Autoencoder/blob/master/images/videotogif_slow.gif) 
+![](https://github.com/ChetanPatil28/Variational-Autoencoder/blob/master/images/videotogif_fast.gif)
