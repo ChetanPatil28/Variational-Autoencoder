@@ -8,7 +8,7 @@ Originally,the data is an image collection of famous people on the Internet. The
 spanning over 5000 celebrities. 
 Some of the sample images are shown below.
 
-![](images/Queen_Elizabeth.JPG)  ![](images/George_Clooney.JPG)
+![](images/Queen_Elizabeth.jpg)  ![](images/George_Clooney.jpg)
 
 The dataset was released as a classification problem in Deep Learning. However, i have used the data for an unsupervised learning task.
 
@@ -24,4 +24,4 @@ By interpolating between the values of the latent variables, the morphing of the
 The decoder could indeed generate new images that it hadn't been shown during the training.
 However, the images seem to be blurred(due to the humongous loss of 460). Nevertheless, the effect of interpolation on the 
 latent variables do generate new samples.
-![](videotogif_slow.gif)  ![](videotogif_fast.gif)
+![](videotogif_slow.GIF)  ![](videotogif_fast.gif)
