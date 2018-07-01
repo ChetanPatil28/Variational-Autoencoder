@@ -1,5 +1,8 @@
 # Variational-Autoencoder
 
+![](https://github.com/ChetanPatil28/Variational-Autoencoder/blob/master/images/videotogif_slow.gif) 
+
+
 This is a generative model based on the Labelled Faces in the Wild dataset from Kaggle.
 The dataset can be found in the link below.
 https://www.kaggle.com/atulanandjha/lfwpeople
@@ -25,5 +28,5 @@ The decoder could indeed generate new images that it hadn't been shown during th
 However, the images seem to be blurred(due to the humongous loss of 460). Nevertheless, the effect of interpolation on the 
 latent variables do generate new samples.
 
-![Interpolating in latent space](https://github.com/ChetanPatil28/Variational-Autoencoder/blob/master/images/videotogif_slow.gif) 
+
 ![](https://github.com/ChetanPatil28/Variational-Autoencoder/blob/master/images/videotogif_fast.gif)
