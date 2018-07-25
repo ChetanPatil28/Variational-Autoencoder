@@ -13,7 +13,7 @@ Some of the sample images are shown below.
 
 ![](images/Queen_Elizabeth.jpg)  ![](images/George_Clooney.jpg)
 
-The dataset was released as a classification problem in Deep Learning. However, i have used the data for an unsupervised learning task.
+The dataset was released as a classification problem in Computer Vision. However, i have used the data for an unsupervised learning task.
 
 All the images have been reshaped into an rgb image of size (64,64,3).
 The variational autoencoder model with 6 latent variables has been built in Keras. 
