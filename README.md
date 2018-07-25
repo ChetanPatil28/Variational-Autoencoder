@@ -1,4 +1,4 @@
-# Variational-Autoencoder
+# Walking around the latent space of celebrity faces.
 
 ![](https://github.com/ChetanPatil28/Variational-Autoencoder/blob/master/images/videotogif_slow.gif) 
 
